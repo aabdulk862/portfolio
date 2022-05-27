@@ -1,0 +1,25 @@
+1652 palette
+#114b5f
+#1a936f
+#88d498   
+#f3e9d2
+
+1146 palette
+#718ca1
+#59748c
+#354d62
+#d7f2f7
+
+:root{
+    --color-bg: #114b5f;
+    --color-bg-variant:#718ca1 ;
+    --color-primary:#88d498 ;
+    --color-primary-variant:#1a936f ;
+    --color-white: #fff ;
+    --color-light: rgba(255,255,255,0.6);
+    --transition: all 400ms ease;
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%;
+
+}
