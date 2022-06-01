@@ -57,7 +57,8 @@
 }
 
 .about__card h5 {
-  font-size: 0.95rem;
+  font-size: 1rem;
+  text-transform: uppercase;
 }
 
 .about__card small {

@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/sunglass1.jpeg'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
+import {BsBook} from 'react-icons/bs'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
@@ -23,24 +23,24 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years in Software Development</small>
             </article>
 
             <article className='about__card'>
-              <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <BsBook className='about__icon'/>
+              <h5>Education</h5>
+              <small>B.S. , Information Technology</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>30+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem maiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi amet repellat molestias quos totam.
+          Full-Stack Developer who is deeply knowledgeable in a wide array of front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer I can be and to make an impact on the technology industry. I am dedicated to perfecting my craft by learning everday and pushing my abilities with code.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

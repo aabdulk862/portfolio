@@ -16,7 +16,7 @@
     --color-primary:#88d498 ;
     --color-primary-variant:#1a936f ;
     --color-white: #fff ;
-    --color-light: rgba(255,255,255,0.6);
+    --color-light: rgba(255,255,255,0.8);
     --transition: all 400ms ease;
     --container-width-lg: 75%;
     --container-width-md: 86%;
@@ -36,7 +36,7 @@ body {
   font-family: "Poppins", sans-serif;
   background: var(--color-bg);
   color: var(--color-white);
-  line-height: 1.7;
+  line-height: 1.4;
 }
 
 /* ============== GENEARL STYLES ============== */
