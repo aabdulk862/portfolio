@@ -48,7 +48,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Joke Teller Robot -  Uses the VoiceRSS Text-to-speech API and the JokeAPI',
+    title: 'Joke Teller Robot -  Uses the VoiceRSS Text to speech API and the JokeAPI',
     github: 'https://github.com/aabdulk862/joke-teller',
     demo: 'https://aabdulk862.github.io/joke-teller/'
   }
