@@ -12,11 +12,11 @@
 
 :root{
     --color-bg: #114b5f;
-    --color-bg-variant:#718ca1 ;
-    --color-primary:#88d498 ;
+    --color-bg-variant:#59748C;
+    --color-primary:#88d498  ;
     --color-primary-variant:#1a936f ;
     --color-white: #fff ;
-    --color-light: rgba(255,255,255,0.8);
+    --color-light: #F3E9D2;
     --transition: all 400ms ease;
     --container-width-lg: 75%;
     --container-width-md: 86%;
@@ -97,7 +97,7 @@ a:hover {
 }
 
 .btn:hover {
-  background: var(--color-white);
+  background: var(--color-light);
   color: var(--color-bg);
   border-color: transparent;
 }
