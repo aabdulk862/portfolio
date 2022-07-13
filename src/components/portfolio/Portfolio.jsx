@@ -13,7 +13,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Royal Clothing Outlet - Made with React, Redux, GraphQL, Stripe, Firebase',
+    title: 'Royal Clothing Outlet - Made with React, Redux, Stripe, Firebase',
     github: 'https://github.com/aabdulk862/royal-clothing-outlet',
     demo: 'https://royal-clothing-outlet.netlify.app/'
   },
