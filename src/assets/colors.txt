@@ -10,30 +10,56 @@
 #354d62
 #d7f2f7
 
+--jet: #363636ff;
+--gunmetal: #242f40ff;
+--satin-sheen-gold: #cca43bff;
+--platinum: #e5e5e5ff;
+--white: #ffffffff;
+
+
+--ash-gray: #cad2c5ff;
+--dark-sea-green: #84a98cff;
+--hookers-green: #52796fff;
+--dark-slate-gray: #354f52ff;
+--charcoal: #2f3e46ff;
+
+
+
 :root{
     --color-bg: #114b5f;
     --color-bg-variant:#718ca1 ;
     --color-primary:#88d498 ;
     --color-primary-variant:#1a936f ;
     --color-white: #fff ;
-    --color-light: rgba(255,255,255,0.6);
+    --color-light: #F3E9D2;
     --transition: all 400ms ease;
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
-
 }
 
 :root{
-    --color-bg: #114b5f;
-    --color-bg-variant:#718ca1 ;
-    --color-primary:#88d498 ;
-    --color-primary-variant:#1a936f ;
-    --color-white: #fff ;
-    --color-light: rgba(255,255,255,0.6);
-    --transition: all 400ms ease;
-    --container-width-lg: 75%;
-    --container-width-md: 86%;
-    --container-width-sm: 90%;
+  --color-bg: #cad2c5ff;
+  --color-bg-variant: #52796fff;
+  --color-primary: #84a98cff;
+  --color-primary-variant:#354f52ff ;
+  --color-white: #fff ;
+  --color-light: rgba(255,255,255,0.6);
+  --transition: all 400ms ease;
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+}
 
+:root{
+  --color-bg: #354f52ff;
+  --color-bg-variant: #52796fff;
+  --color-primary: #cad2c5ff;
+  --color-primary-variant:#84a98cff ;
+  --color-white: #fff ;
+  --color-light: rgba(255,255,255,0.6);
+  --transition: all 400ms ease;
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
 }
