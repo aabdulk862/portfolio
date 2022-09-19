@@ -11,16 +11,16 @@
 }
 
 :root{
-    --color-bg: #114b5f;
-    --color-bg-variant:#2f3e46ff ;
-    --color-primary:#88d498 ;
-    --color-primary-variant:#84a98cff ;
-    --color-white: #fff ;
-    --color-light: #f3e9d2;
-    --transition: all 400ms ease;
-    --container-width-lg: 75%;
-    --container-width-md: 86%;
-    --container-width-sm: 90%;
+  --color-bg: #114b5f;
+  --color-bg-variant:#212e3a ;
+  --color-primary:#88d498 ;
+  --color-primary-variant:#1a936f ;
+  --color-white: #fff ;
+  --color-light: #F3E9D2;
+  --transition: all 400ms ease;
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
 }
 
 html {

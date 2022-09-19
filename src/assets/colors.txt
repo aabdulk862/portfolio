@@ -22,12 +22,13 @@
 --hookers-green: #52796fff;
 --dark-slate-gray: #354f52ff;
 --charcoal: #2f3e46ff;
-
+  
+  matte black: #28282B
 
 
 :root{
     --color-bg: #114b5f;
-    --color-bg-variant:#718ca1 ;
+    --color-bg-variant:##354d62 ;
     --color-primary:#88d498 ;
     --color-primary-variant:#1a936f ;
     --color-white: #fff ;
